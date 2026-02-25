@@ -4,6 +4,8 @@ using PRACTICALWORK5_8_SOSNOVSKI.Models;
 
 namespace PRACTICALWORK5_8_SOSNOVSKI
 {
+    //для коммита))
+    //для коммита))
     public partial class CarCard : UserControl
     {
         public Car CurrentCar { get; set; }
